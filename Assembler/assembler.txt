@@ -1,0 +1,5 @@
+MOV Y 00
+MOV X 01      
+ADD Y X
+BNE 10 Y 
+JMP 04
